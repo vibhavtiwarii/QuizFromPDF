@@ -1,0 +1,95 @@
+Characteristics
+See also: Characteristics of common wasps and bees
+
+Head-on view of a male carpenter bee, showing antennae, three ocelli, compound eyes, and mouthparts
+
+The lapping mouthparts of a honey bee, showing labium and maxillae
+Bees differ from closely related groups such as wasps by having branched or plume-like setae (hairs), combs on the forelimbs for cleaning their antennae, small anatomical differences in limb structure, and the venation of the hind wings. In females, the seventh dorsal abdominal plate is also divided into two half-plates.[28]
+
+Bees have the following characteristics:[29]
+
+A pair of large compound eyes which cover much of the surface of the head. Between and above these are three small simple eyes (ocelli) which provide information on light intensity.[29]
+The antennae usually have 13 segments in males and 12 in females, and are geniculate, having an elbow joint part way along. They house large numbers of sense organs that can detect touch (mechanoreceptors), smell and taste; and small, hairlike mechanoreceptors that can detect air movement so as to "hear" sounds.[29]
+The mouthparts are adapted for both chewing and sucking by having both a pair of mandibles and a long proboscis for sucking up nectar.[29]
+The thorax has three segments, each with a pair of robust legs, and a pair of membranous wings on the hind two segments. The front legs of corbiculate bees bear combs for cleaning the antennae. In many species the hind legs bear pollen baskets, flattened sections with incurving hairs to secure the collected pollen. The wings are synchronized in flight, and the somewhat smaller hind wings connect to the forewings by a row of hooks along their margin which connect to a groove in the forewing.[29]
+The abdomen has nine segments, the hindermost three being modified into the sting.[29]
+Many bees are brightly colored, displaying contrasting bands of yellow, orange, or red against black. These colors function as aposematic signals, warning potential predators that the insect may sting or otherwise defend itself,[30] although similar warning patterns are also seen in many harmless insects that mimic bees or wasps, a form of Batesian mimicry.[31]
+The largest species of bee is thought to be Wallace's giant bee Megachile pluto, whose females can attain a length of 39 millimeters (1.54 in).[32] The smallest species may be dwarf stingless bees in the tribe Meliponini whose workers are less than 2 millimeters (0.08 in) in length.[33]
+
+Sociality
+Haplodiploid breeding system
+Further information: Haplodiploidy
+
+Willing to die for their sisters: worker honey bees killed defending their hive against yellowjackets, along with a dead yellowjacket. Such altruistic behaviour may be favoured by the haplodiploid sex determination system of bees.
+According to inclusive fitness theory, an organism can increase its evolutionary success not only by increasing its own offspring, but also by helping close relatives reproduce. In genetic terms, cooperation is favored when the cost to the helper is less than the product of relatedness and benefit. This condition is more easily met in haplodiploid species such as bees, where the genetic relationships create strong incentives for cooperative behavior.[34][35][36]
+
+Haplodiploidy alone does not explain the evolution of eusociality. Some eusocial species such as termites are not haplodiploid. Conversely, many haplodiploid species, including most bees, are not eusocial, and even among eusocial bees, queens often mate with several males, producing half sisters that share only about a quarter of their genes.[37] However, since single mating appears to be the ancestral condition in all eusocial lineages studied so far, haplodiploidy may still have played an important role in the early evolution of eusocial behaviour in bees.[35]
+
+Eusociality
+
+A Western honey bee swarm
+Further information: Eusociality
+Bees may be solitary or may live in various types of community. Eusociality appears to have arisen independently at least three times in halictid bees.[38] The most advanced of these form eusocial colonies; these are characterized by cooperative brood care and a division of labour into reproductive and non-reproductive adults, with overlapping generations.[39] This division of labour creates specialized groups within eusocial societies, called castes. In some species, groups of cohabiting females are sisters. If these sisters share a division of labour, the group is described as semisocial. When the group instead includes a mother (the queen) and her daughters (the workers), it is considered eusocial. If the castes differ only in behavior and size, as in many paper wasps, the system is primitively eusocial. When the castes show clear morphological differences, the system is described as highly eusocial.[23]
+
+True honey bees (genus Apis, with eight species) are highly eusocial, and are among the best known insects. Their colonies are established by swarms, consisting of a queen and several thousand workers. There are 29 subspecies of one of these species, Apis mellifera, native to Europe, the Middle East, and Africa. Africanized bees are a hybrid strain of A. mellifera that escaped from experiments involving crossing European and African subspecies; they are extremely defensive.[40]
+
+Stingless bees are also highly eusocial. They practice mass provisioning, with complex nest architecture and perennial colonies also established via swarming.[4][41]
+
+
+A bumblebee carrying pollen in its pollen baskets (corbiculae)
+Many bumblebees are eusocial, similar to the eusocial Vespidae such as hornets in that the queen initiates a nest on her own rather than by swarming. Bumblebee colonies typically have from 50 to 200 bees at peak population, which occurs in mid to late summer. Nest architecture is simple, limited by the size of the pre-existing nest cavity, and colonies rarely last more than a year.[42] In 2011, the International Union for Conservation of Nature set up the Bumblebee Specialist Group to review the threat status of all bumblebee species worldwide using the IUCN Red List criteria.[43]
+
+There are many more species of primitively eusocial than highly eusocial bees, but they have been studied less often. Most are in the family Halictidae, or "sweat bees". Colonies are typically small, with a dozen or fewer workers, on average. Queens and workers differ only in size, if at all. Most species have a single season colony cycle, even in the tropics, and only mated females hibernate. A few species, such as Halictus hesperus, have long active seasons and attain colony sizes in the hundreds.[44] Some species are eusocial in parts of their range and solitary in others,[45] or have a mix of eusocial and solitary nests in the same population.[46] The orchid bees (Apidae) include some primitively eusocial species with similar biology. Some allodapine bees (Apidae) form primitively eusocial colonies, with progressive provisioning: a larva's food is supplied gradually as it develops, as is the case in honey bees and some bumblebees.[47]
+
+Solitary and communal bees
+Most other bees, including familiar insects such as carpenter bees, leafcutter bees and mason bees are solitary in the sense that every female is fertile, and typically inhabits a nest she constructs herself. There is no division of labor, so these nests lack queens and worker bees. Solitary bees typically produce neither honey nor beeswax. Bees collect pollen to feed their young, and have the necessary adaptations to do this. However, certain wasp species such as pollen wasps have similar behaviours, and a few species of bee scavenge from carcasses to feed their offspring.[28] Solitary bees are important pollinators; they gather pollen to provision their nests with food for their brood. Often it is mixed with nectar to form a paste-like consistency. Some solitary bees have advanced types of pollen-carrying structures on their bodies. Very few species of solitary bee are being cultured for commercial pollination. Most of these species belong to a distinct set of genera which are commonly known by their nesting behavior or preferences, namely the carpenter bees, sweat bees, mason bees, plasterer bees, squash bees, dwarf carpenter bees, leafcutter bees, alkali bees and digger bees.[48]
+
+Most solitary bees are fossorial, digging nests in the ground in a variety of soil textures and conditions, while others create nests in hollow reeds or twigs, or holes in wood. The female typically creates a compartment (a "cell") with an egg and some provisions for the resulting larva, then seals it off. A nest may consist of numerous cells. When the nest is in wood, usually the last (those closer to the entrance) contain eggs that will become males. The adult does not provide care for the brood once the egg is laid, and usually dies after making one or more nests. The males typically emerge first and are ready for mating when the females emerge. Solitary bees are very unlikely to sting (only in self-defense, if ever), and some (esp. in the family Andrenidae) are stingless.[49][50]
+
+While solitary, females each make individual nests.[51] Some species, such as the European mason bee Hoplitis anthocopoides,[52] and the Dawson's Burrowing bee, Amegilla dawsoni,[53] are gregarious, preferring to make nests near others of the same species, and giving the appearance of being social. Large groups of solitary bee nests are called aggregations, to distinguish them from colonies. In some species, multiple females share a common nest, but each makes and provisions her own cells independently. This type of group is called "communal" and is not uncommon. The primary advantage appears to be that a nest entrance is easier to defend from predators and parasites when multiple females use that same entrance regularly.[52]
+
+A leafcutting bee, Megachile rotundata, cutting circles from acacia leaves
+A leafcutting bee, Megachile rotundata, cutting circles from acacia leaves
+ 
+A solitary bee, Anthidium florentinum (family Megachilidae), visiting Lantana
+A solitary bee, Anthidium florentinum (family Megachilidae), visiting Lantana
+ 
+The mason bee Osmia cornifrons nests in a hole in dead wood. Bee "hotels" are often sold for this purpose.
+The mason bee Osmia cornifrons nests in a hole in dead wood. Bee "hotels" are often sold for this purpose.
+Biology
+Life cycle
+Further information: Honey bee life cycle
+The life cycle of both solitary and social bees involves the laying of an egg, the development through several moults of a legless larva, a pupa in which the insect undergoes complete metamorphosis, and the emergence of a winged adult. Most solitary bees and bumble bees in temperate climates overwinter as adults or pupae and emerge in spring when increasing numbers of flowering plants come into bloom. The males usually emerge first and search for females with which to mate. Like the other members of Hymenoptera, bees are haplodiploid; the sex of a bee is determined by whether or not the egg is fertilized. After mating, a female stores the sperm, and determines which sex is required at the time each individual egg is laid, fertilized eggs producing female offspring and unfertilized eggs, males. Tropical bees may have several generations in a year and no resting diapause stage.[54][55][56][57]
+
+The egg is generally oblong, slightly curved and tapering at one end. Solitary bees, lay each egg in a separate cell with a supply of mixed pollen and nectar next to it. This may be rolled into a pellet or placed in a pile and is known as mass provisioning. Social bee species provision progressively, that is, they feed the larva regularly while it grows. The nest varies from a hole in the ground or in wood, in solitary bees, to a substantial structure with wax combs in bumblebees and honey bees.[58]
+
+In most species, bee larvae are whitish grubs, roughly oval and bluntly-pointed at both ends. They have 15 segments and spiracles in each segment for breathing. They have no legs but move within the cell, helped by tubercles on their sides. They have short horns on the head, jaws for chewing food and an appendage on either side of the mouth tipped with a bristle. There is a gland under the mouth that secretes a viscous liquid which solidifies into the silk they use to produce a cocoon. The cocoon is semi-transparent and the pupa can be seen through it. Over the course of a few days, the larva undergoes metamorphosis into a winged adult. When ready to emerge, the adult splits its skin dorsally and climbs out of the exuviae and breaks out of the cell.[58]
+
+Nest of common carder bumblebee, wax canopy removed to show winged workers and pupae in irregularly placed wax cells
+Nest of common carder bumblebee, wax canopy removed to show winged workers and pupae in irregularly placed wax cells
+ 
+Carpenter bee nests in a cedar wood beam (sawn open)
+Carpenter bee nests in a cedar wood beam (sawn open)
+ 
+Honeybees on brood comb with eggs and larvae in cells
+Honeybees on brood comb with eggs and larvae in cells
+Flight
+Further information: Insect flight
+In the 1930s, calculations based on the aerodynamics of fixed wings appeared to show that insect flight was impossible, with results taken from equations meant for aircraft to wings that beat rapidly through short arcs. The author of the study remarked that "one should not be surprised that the results of the calculations do not square with reality," but this comment was later taken out of context and gave rise to the myth that "the bumblebee should not be able to fly."[59][60]
+
+In fact, those early models were never suited to describe how insects fly. Studies later showed that bees and many other insects produce lift through swirling vortices that form along the leading edge of the wing.[61][62] High-speed imaging and robotic wing experiments confirmed that lift in bees results from rapid wing reversals and high wing-beat frequency, which together sustain the airflow needed to stay in the air.[63][64]
+
+Honeybee in flight carrying pollen in pollen basket
+Honeybee in flight carrying pollen in pollen basket
+ 
+Honey bee on Geranium (cultivar Rozanne) and flying. Second portion taken at 12,000 frames per second with 60 frames shown per second.
+Navigation, communication, and finding food
+
+Karl von Frisch (1953) discovered that honey bee workers can navigate, indicating the range and direction to food to other workers with a waggle dance.
+Further information: Animal navigation and Waggle dance
+The ethologist Karl von Frisch showed that honey bees communicate by the waggle dance, a pattern of movement that informs other workers about the direction and distance to food. He showed that honey bees use the sun as their main compass but can still locate its position on cloudy days by reading the polarization pattern of skylight.[65] They use spatial memory with a "rich, map-like organization".[66]
+
+Digestion
+The gut of bees is relatively simple, but multiple metabolic strategies exist in the gut microbiota.[67] Pollinating bees consume nectar and pollen, which require different digestion strategies by somewhat specialized bacteria. While nectar is a liquid of mostly monosaccharide sugars and so easily absorbed, pollen contains complex polysaccharides: branching pectin and hemicellulose.[68] Approximately five groups of bacteria are involved in digestion. Three groups specialize in simple sugars (Snodgrassella and two groups of Lactobacillus), and two other groups in complex sugars (Gilliamella and Bifidobacterium). Digestion of pectin and hemicellulose is dominated by bacterial clades Gilliamella and Bifidobacterium respectively. Bacteria that cannot digest polysaccharides obtain enzymes from their neighbors, and bacteria that lack certain amino acids do the same, creating multiple ecological niches.[69]
+
+Although most bee species eat nectar and pollen, some do not. The vulture bees in the genus Trigona, consume carrion and the immature stages of wasps, turning meat into a honey-like substance.[70] Bees drink guttation drops from leaves for energy and nutrients.[71]
